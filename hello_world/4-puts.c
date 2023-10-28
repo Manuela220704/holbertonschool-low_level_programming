@@ -1,4 +1,5 @@
-*
+/*
+* 
 *  *File: 4-puts.c
 *   *Author: manuelao
 *    */
