@@ -1,6 +1,6 @@
 /*
  *  * File: 5-printf.c
- *   * Author: Brayan Steven Salazar
+ *   * Author: Manuela marin baltan
  *    */
 
 

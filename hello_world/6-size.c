@@ -1,6 +1,6 @@
 /*
  *  * File: 6-size.c
- *   * Author: Brayan Salazar Perdomo
+ *   * Author: Manuela marin baltan
  *    */
 
 #include<stdio.h>

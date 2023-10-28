@@ -1,6 +1,6 @@
 /*
  *  *File: 4-puts.c
- *   *Author: Brayan Steven Salazar Perdomo
+ *   *Author: Manuela marin baltan
  *    */
 
 
