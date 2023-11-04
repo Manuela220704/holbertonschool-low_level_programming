@@ -25,7 +25,7 @@ void times_table(void)
 			}
 			else if (mult <= 9 && n2 != 0)
 			{
-				_putchar(' ');	
+				_putchar(' ');
 				_putchar(mult + '0');
 			}
 			else
