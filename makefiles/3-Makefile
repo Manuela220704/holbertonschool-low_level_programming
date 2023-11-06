@@ -14,3 +14,9 @@ $(NAME): $(OBJ)
 
 clean:
 	$(RM) *~ $(NAME)
+
+oclean:
+
+fclean:
+
+re:
