@@ -1,0 +1,1 @@
+El primer parámetro, argc (recuento de argumentos) es un entero que indica cuántos argumentos se han especificado en la línea de mandatos cuando se inició el programa. El segundo parámetro, argv (vector de argumento), es una matriz de punteros a matrices de objetos de caracteres.
